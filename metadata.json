@@ -1,0 +1,5 @@
+{
+  "name": "OmniRead2",
+  "description": "Un lecteur d'articles universel accessible avec traduction IA et synthèse vocale.",
+  "requestFramePermissions": []
+}
